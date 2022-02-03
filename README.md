@@ -20,6 +20,12 @@ React, socket.io, webRTC
 ## server setting
 
 ```
-npm install --save express express-joi-validation joi jsonwebtoken mongoose cors dotenv bcryptjs
+npm install 
 ```
 
+## dependency
+
+ express express-joi-validation joi jsonwebtoken mongoose cors dotenv bcryptjs
+ 
+ nodemon
+## openssl
