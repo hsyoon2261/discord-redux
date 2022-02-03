@@ -29,3 +29,9 @@ router.post(
 router.post("/login");
 
 module.exports = router;
+
+
+/*login validation process
+LoginSchema(authRoutes.js) -> try bcrypt.compare(postLogin.js)
+
+*/
