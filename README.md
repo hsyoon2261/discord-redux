@@ -27,5 +27,7 @@ npm install
 
  express express-joi-validation joi jsonwebtoken mongoose cors dotenv bcryptjs
  
- nodemon
+ nodemon 안되는경우. path 설정에 문제가 생긴걸 수 있음
+
+
 ## openssl
