@@ -31,3 +31,11 @@ npm install
 
 
 ## openssl
+
+# react
+
+## react-router dom
+
+npm install --save @emotion/styled @emotion/react
+
+switch 없어짐. redirect 없어짐. exact path 선호 X
